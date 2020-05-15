@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Robot Game.cpp
+c:\users\win 7\source\repos\robot game\robot game\robot game.cpp(86): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\win 7\source\repos\robot game\robot game\robot game.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\win 7\source\repos\robot game\robot game\robot game.cpp(117): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\win 7\source\repos\robot game\robot game\robot game.cpp(118): warning C4018: '<': signed/unsigned mismatch
+  Robot Game.vcxproj -> C:\Users\win 7\source\repos\Robot Game\Debug\Robot Game.exe
