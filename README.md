@@ -11,6 +11,8 @@ The Robot class has functions for
   
 2.The TiringRobot class which loses health points when moving. 
   The TiringRobot class is inherited from Robot class and  overrides virtual add_health() member function
+  
+**The type of robot is determined run time
 
 3.The Arena class which is a 2d grid of some size on which some of the tiles have health bonuses on them and some of the tiles have 
   bombs on them. If a robot steps on a health bonus it gains health points and if it steps on a bomb it loses some health points.
