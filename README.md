@@ -1,8 +1,9 @@
 # Robot-Game
 Robot Game
 The Game has
+
  1.Robot class that has
-	 2d coordinates
+   2d coordinates
    Health points
 
 The Robot class has functions for 
